@@ -59,7 +59,7 @@ window.addEventListener(`scroll`, function () {
 
 ### Useful resources
 
-- [Responsive websites](https://dzone.com/articles/using-csshtml-make-responsive#) - This is an amazing article which helped me in implementing this as a responsive websites. I'd recommend it to anyone still learning "how to make websites responsive".
+- [Responsive websites](https://dzone.com/articles/using-csshtml-make-responsive#) - This is an amazing article which helped me in implementing this as a responsive website. I'd recommend it to anyone still learning "how to make websites responsive".
 
 ## Author
 
