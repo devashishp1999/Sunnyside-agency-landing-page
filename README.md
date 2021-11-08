@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Final result screen-shot](./screenshot.jpg)
+![Final solution screen-shot](https://github.com/devashishp1999/Sunnyside-agency-landing-page/blob/main/screenshot.png)
 
 ### Links
 
