@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@600;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@600;900&display=swap");
+
+:root {
+  --mobile: 375px;
+  --desktop: 1440px;
+
+  /* Colors - primary */
+  --soft-blue: #3ebfff;
+  --soft-red: #fe7867;
+  --yellow: #fad400;
+  --dark-desaturated-cyan-graphic-design-text: #25564b;
+  --Dark-blue-photography-text: #19536b;
+  --Dark-moderate-cyan-footer: #458c7e;
+
+  /* Colors - Neutral */
+  --very-dark-desaturated-blue: #23303e;
+  --very-dark-grayish-blue: #5a636c;
+  --dark-grayish-blue: #818498;
+  --grayish-blue: #a7abae;
+  --white: #ffffff;
+}
